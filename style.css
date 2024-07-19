@@ -1,0 +1,37 @@
+header {
+  background-color: rgb(80, 7, 152);
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.main {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.para {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+#content {
+  padding-left: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  box-shadow: 0 0 0 90px rgb(222, 214, 214);
+  margin: 100px;
+  
+}
+
+#foot {
+  font-size: 15px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  bottom: 5%;
+  background-color: rgb(80, 7, 152);
+  color: white;
+  font-family: sans-serif;
+  padding-bottom: 20px;
+}
